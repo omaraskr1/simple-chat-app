@@ -1,0 +1,14 @@
+C:\Users\omar askr\source\repos\server\clint\bin\Debug\netcoreapp3.1\clint.exe
+C:\Users\omar askr\source\repos\server\clint\bin\Debug\netcoreapp3.1\clint.deps.json
+C:\Users\omar askr\source\repos\server\clint\bin\Debug\netcoreapp3.1\clint.runtimeconfig.json
+C:\Users\omar askr\source\repos\server\clint\bin\Debug\netcoreapp3.1\clint.runtimeconfig.dev.json
+C:\Users\omar askr\source\repos\server\clint\bin\Debug\netcoreapp3.1\clint.dll
+C:\Users\omar askr\source\repos\server\clint\bin\Debug\netcoreapp3.1\clint.pdb
+C:\Users\omar askr\source\repos\server\clint\obj\Debug\netcoreapp3.1\clint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omar askr\source\repos\server\clint\obj\Debug\netcoreapp3.1\clint.AssemblyInfoInputs.cache
+C:\Users\omar askr\source\repos\server\clint\obj\Debug\netcoreapp3.1\clint.AssemblyInfo.cs
+C:\Users\omar askr\source\repos\server\clint\obj\Debug\netcoreapp3.1\clint.csproj.CoreCompileInputs.cache
+C:\Users\omar askr\source\repos\server\clint\obj\Debug\netcoreapp3.1\clint.dll
+C:\Users\omar askr\source\repos\server\clint\obj\Debug\netcoreapp3.1\clint.pdb
+C:\Users\omar askr\source\repos\server\clint\obj\Debug\netcoreapp3.1\clint.genruntimeconfig.cache
+C:\Users\omar askr\source\repos\server\clint\obj\Debug\netcoreapp3.1\clint.csproj.AssemblyReference.cache
